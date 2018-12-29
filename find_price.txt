@@ -1,0 +1,55 @@
+[<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="76739877" href="http://www.dianping.com/shop/76739877" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥15</b>
+</a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="98361565" href="http://www.dianping.com/shop/98361565" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="98572227" href="http://www.dianping.com/shop/98572227" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="96489577" href="http://www.dianping.com/shop/96489577" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="110615443" href="http://www.dianping.com/shop/110615443" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="111989135" href="http://www.dianping.com/shop/111989135" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="91642294" href="http://www.dianping.com/shop/91642294" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥19</b>
+</a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="112104970" href="http://www.dianping.com/shop/112104970" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="93302437" href="http://www.dianping.com/shop/93302437" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥14</b>
+</a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="21936503" href="http://www.dianping.com/shop/21936503" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥12</b>
+</a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="112543467" href="http://www.dianping.com/shop/112543467" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="112253350" href="http://www.dianping.com/shop/112253350" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="101914612" href="http://www.dianping.com/shop/101914612" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="83061263" href="http://www.dianping.com/shop/83061263" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥17</b>
+</a>, <a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="67998011" href="http://www.dianping.com/shop/67998011" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥12</b>
+</a>]
